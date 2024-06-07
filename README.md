@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robinson C Peñaloza, @robirod for the friends
 - 👀 I’m interested in Developer, Audioprogramming and make better coffee.
-- 🌱 I’m currently learning Python, Java and JavaScript
+- 🌱 I’m currently learning PHP, Java and JavaScript
 - 📫 Contact me via email: robinsoncpenaloza@gmail.com ✨ 
 
 <!---
